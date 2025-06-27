@@ -1,69 +1,71 @@
-# Welcome to your Lovable project
+# Offbeats 2.0 — Travel Itinerary Platform
 
-## Project info
+**Offbeats 2.0** is a travel-focused web application built to help users explore offbeat destinations, especially in mountain regions. It offers a clean interface to discover curated experiences, and in the future, aims to leverage AI to create personalized itineraries.
 
-**URL**: https://lovable.dev/projects/21fc9e58-aa63-4580-9da0-6ac5ef088115
+## 🧭 Project Overview
 
-## How can I edit this code?
+- A clean and interactive interface for browsing offbeat travel locations.
+- Optimized for users looking to escape mainstream tourism.
+- Designed with a vision to integrate AI/LLM-based recommendations.
 
-There are several ways of editing your application.
+## ⚙️ Features
 
-**Use Lovable**
+- Browse and filter travel destinations
+- See details including location, difficulty, ideal time to visit
+- Admin interface for adding/editing new spots
+- Future support for user logins and trip planning
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/21fc9e58-aa63-4580-9da0-6ac5ef088115) and start prompting.
+## 🚀 Future Plans
 
-Changes made via Lovable will be committed automatically to this repo.
+In upcoming versions, this app will:
+- Integrate a **Large Language Model (LLM)** to auto-generate travel itineraries based on:
+  - Budget
+  - Duration
+  - Travel style (adventure, peace, spiritual)
+  - Interests (trekking, heritage, cuisine, etc.)
 
-**Use your preferred IDE**
+This will transform Offbeats 2.0 into a smart travel companion that tailors journeys for every traveler.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 📺 Demo Preview
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+A short screen recording of the app in action:  
+[🎥 Watch Demo](./Screen%20Recording%202025-03-09%20104945.mp4)
 
-Follow these steps:
+> *Make sure to rename and place the `.mp4` file in your repo folder for this link to work on GitHub.*
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🧑‍💻 Author
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+**Bijoy Laxmi Biswas**  
+Travel lover | Python Developer | Techie Trekker  
+Blog: [bijoytrektech.hashnode.dev](https://bijoytrektech.hashnode.dev)
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 📌 Getting Started
 
-**Edit a file directly in GitHub**
+```bash
+git clone https://github.com/techtrotter/offbeats2.0.git
+cd offbeats2.0
+# Follow further instructions based on your frontend/backend setup
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Vision
+Offbeats 2.0 is not just another travel listing platform. It aims to:
 
-**Use GitHub Codespaces**
+Empower travelers with hidden gems instead of mainstream spots
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Reduce the hassle of trip planning through smart AI agents
 
-## What technologies are used for this project?
+Promote sustainable, mindful, and solo-friendly travel
 
-This project is built with .
+Blend tech innovation with the spirit of exploration
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Author
+Bijoy Laxmi Biswas
+Travel lover | AI/ML Enthusiast | Developer | Yogic Mindset
+Feel free to reach out for collaboration or contribution ideas.
 
-## How can I deploy this project?
+Blog: bijoytrektech.hashnode.dev
 
-Simply open [Lovable](https://lovable.dev/projects/21fc9e58-aa63-4580-9da0-6ac5ef088115) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+🤝 Contributing
+Pull requests are welcome.
+If you’d like to contribute ideas for the AI module or UI/UX improvements, please open an issue or reach out directly.
