@@ -29,7 +29,7 @@ This will transform Offbeats 2.0 into a smart travel companion that tailors jour
 ## 📺 Demo Preview
 
 A short screen recording of the app in action:  
-[🎥 Watch Demo](./)
+[🎥 Watch Demo](./ScreenRecording2025-03-09104945_resized.mp4)
 
 > *Make sure to rename and place the `.mp4` file in your repo folder for this link to work on GitHub.*
 
